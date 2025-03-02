@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/aesthetic-pixel-city-discord-banner-nyv1jjie9r6dtoer.gif)](https://github.com/nusaibasurovi)
+[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/nusaibasurovi)
 
 
 <h1 align="center">Hi 👋, I'm Nusaiba</h1>
