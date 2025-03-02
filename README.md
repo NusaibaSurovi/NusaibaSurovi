@@ -1,9 +1,12 @@
-[!MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://gifdb.com/images/high/aesthetic-pixel-city-discord-banner-nyv1jjie9r6dtoer.gif)](https://github.com/nusaibasurovi)
+
 
 <h1 align="center">Hi 👋, I'm Nusaiba</h1>
 <h3 align="center">I,m a passionate software engineer , Enthusiastic about software development and the IT field, with a keen interest in web development, software quality assurance, database management, cybersecurity, . Eager to explore and contribute to these domains with dedication and passion.</h3>
-<img align="reight" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/female-programmer-developed-website-6369146_5304702">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nusaibasurovi&label=Profile%20views&color=0e75b6&style=flat" alt="nusaibasurovi" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nusaibasurovi&label=Profile%20Views&color=0e75b6&style=flat" alt="nusaibasurovi Profile Views" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
