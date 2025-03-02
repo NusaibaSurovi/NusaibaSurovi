@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/yozTqK7a2ekAAAAC/anime-blush-anime-laptop.gif)](https://github.com/nusaibasurovi)
+[![MasterHead](https://media1.tenor.com/m/saZMskANYroAAAAC/notebook-pc.gif)](https://github.com/nusaibasurovi)
 
 
 <h1 align="center">Hi 👋, I'm Nusaiba</h1>
