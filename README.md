@@ -5,7 +5,7 @@
 <h3 align="center">I,m a passionate software engineer , Enthusiastic about software development and the IT field, with a keen interest in web development, software quality assurance, database management, cybersecurity, . Eager to explore and contribute to these domains with dedication and passion.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nusaibasurovi&label=Profile%20Views&color=0e75b6&style=flat" alt="nusaibasurovi Profile Views" />
+  <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/3vEv_u7XNk4AAAAd/anime.gif">
 </p>
 
 <h3 align="left">Connect with me:</h3>
